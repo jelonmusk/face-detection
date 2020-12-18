@@ -41,7 +41,7 @@ $ python facede.py
 
 ## :key: Results
 
-#### Our model gave 99.94% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
+#### Our model gave 99.94% accuracy for Face Mask Detection 
 
 ![](https://github.com/jelonmusk/face-detection/blob/main/output/output2.png)    
 
