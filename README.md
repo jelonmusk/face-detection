@@ -1,4 +1,4 @@
-# face-detection
+# Face-Detection
 A Face Detection application using OpenCV, Deep Learning and Python.    
      
      
