@@ -46,6 +46,8 @@ $ python facede.py
 ![](https://github.com/jelonmusk/face-detection/blob/main/output/output2.png)    
 
 ## :clap: And it's done!    
+Feel free to mail me for any doubts/query 
+:email: jelonmusk@gmail.com
 
 ## :handshake: Contribution
 Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/jelonmusk/face-detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
