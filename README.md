@@ -41,7 +41,7 @@ $ python facede.py
 
 ## :key: Results
 
-#### Our model gave 99.94% accuracy for Face Mask Detection 
+#### Our model gave 99.94% accuracy for Face  Detection 
 
 ![](https://github.com/jelonmusk/face-detection/blob/main/output/output2.png)    
 
